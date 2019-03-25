@@ -1,0 +1,22 @@
+.App {
+  text-align: center;
+  margin: 3em 10em 3em 10em;
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: beige;
+}
+
+.output {
+  border: 3px;
+  background-color: #61dafb;
+  border-color: coral
+}
+
